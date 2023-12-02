@@ -1,0 +1,2 @@
+url: str = "https://drahrkmxmjzlwiahipjy.supabase.co"
+key: str = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRyYWhya214bWp6bHdpYWhpcGp5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDE0NjEwMzMsImV4cCI6MjAxNzAzNzAzM30.UXbxfkiWBwuUuJjxD3bF0yAX53C-V6QnuFBBuxeoZG4"
