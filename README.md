@@ -28,6 +28,8 @@ Se requiere de estas bibliotecas:
 
 **La base de datos en Supabase ya esta integrada mediante Tokens y se mantendra activa**
 
+ # Ejecucion:  
 
+ Solo se le da Play/F5/Run/ o ejecutar mediante el comando:  'python app.py' o 'py app.py'
 
         
