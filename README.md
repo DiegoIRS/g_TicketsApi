@@ -1,4 +1,5 @@
 # g_TicketsApi
+
 Entrevista técnica - Backend
 Evaluación técnica consiste en el desarrollo de un servicio, que debe exponer una API REST a través de HTTP utilizando JSON para el traspaso de mensajes.
 
@@ -20,5 +21,13 @@ https://www.youtube.com/watch?v=a9GqvfMCPmk&ab_channel=DiegoRojas
 
 4 http://localhost:5000/orders/1
                                         
-    
+ # Instalacion:  
+
+Se requiere de estas bibliotecas:
+    pip install Flask supabase-py datetime
+
+**La base de datos en Supabase ya esta integrada mediante Tokens y se mantendra activa**
+
+
+
         
